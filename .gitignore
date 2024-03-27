@@ -1,0 +1,3 @@
+.library-venv
+.env
+__pycache__
